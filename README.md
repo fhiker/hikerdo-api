@@ -1,13 +1,6 @@
-# Hono REST API
+# Hikerdo-API
 
-This is Real World starter project utilizing Hono, Zod, DrizzleORM, OpenAPI, hono-event-emitter, specifically tailored to run on cloudflare workers.
-
-## Get started
-
-1. Sign up for [Cloudflare Workers](https://workers.dev).
-2. Clone this project and install dependencies with `pnpm install`
-3. Run `wrangler login` to login to your Cloudflare account in wrangler
-4. Run `wrangler deploy` to publish the API to Cloudflare Workers
+Project for hikerdo app utilizing Hono, Zod, DrizzleORM, OpenAPI, hono-event-emitter, specifically tailored to run on cloudflare workers.
 
 ## Development
 
